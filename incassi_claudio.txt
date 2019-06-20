@@ -1,0 +1,6 @@
+[Concessionaria di Claudio Pomo]
+Incassi totali: 200000.0
+Incassi per venditore:
+Sara Montrone: 0.0 euro
+Umberto Foggi: 80000.0 euro
+Luca Rella: 120000.0 euro

@@ -1,0 +1,7 @@
+[Concessionaria di Giovanni Orciuolo]
+Incassi totali: 203000.0
+Incassi per venditore:
+Sabino Gazzillo: 0.0 euro
+Gianfranco Zagaria: 0.0 euro
+Marco Moschetta: 3000.0 euro
+Andrea Fortunato: 200000.0 euro

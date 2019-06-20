@@ -1,0 +1,6 @@
+[Concessionaria di Silvio Troia]
+Incassi totali: 5000.0
+Incassi per venditore:
+Roberto Martiradonna: 0.0 euro
+Giuseppe Bruno: 0.0 euro
+Flavio Troia: 5000.0 euro
